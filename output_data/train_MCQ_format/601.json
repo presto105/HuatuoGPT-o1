@@ -1,0 +1,15 @@
+{
+  "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: F,Height: 151.7 cm,Body weight: 64.6 kg,BMI: 28.07,Smoking history: Never smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Positive,PD-L1 group: >50%,PD-L1 (22C3): 60%,PD-L1 (SP263): 60%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Alectinib,SNV mutations: ASXL1,FUBP1,NF2,TET2,TP53,CNV alterations: None,Fusion genes: ALK,Splice variants: None,TMB: 19.0 mutations/Mb\nWhat is the most likely treatment response?",
+  "options": {
+    "A": "Complete Response",
+    "B": "Partial Response",
+    "C": "Stable Disease",
+    "D": "Progressive Disease"
+  },
+  "answer_idx": "D",
+  "answer": "PD",
+  "process_id": 601,
+  "options_str": "A. Complete Response\nB. Partial Response\nC. Stable Disease\nD. Progressive Disease",
+  "gpt_filter_query": "<Multiple-choice Question>\nPatient Clinical Profile:\nAge: 78 years old,Sex: F,Height: 151.7 cm,Body weight: 64.6 kg,BMI: 28.07,Smoking history: Never smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Positive,PD-L1 group: >50%,PD-L1 (22C3): 60%,PD-L1 (SP263): 60%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Alectinib,SNV mutations: ASXL1,FUBP1,NF2,TET2,TP53,CNV alterations: None,Fusion genes: ALK,Splice variants: None,TMB: 19.0 mutations/Mb\nWhat is the most likely treatment response?\nA. Complete Response\nB. Partial Response\nC. Stable Disease\nD. Progressive Disease\nCorrect Answer: PD\n</Multiple-choice Question>\n\nYou are an expert in filtering and evaluating multiple-choice questions for advanced reasoning tasks. Your job is to evaluate a given question and determine whether it meets the following criteria: \n1. **Depth of Reasoning:** The question should require deeper reasoning. If the question appears too simple, mark it as \"Too Simple\".\n2. **Unambiguous Correct Answer:** The question must have a unique and unambiguous correct answer. If the question asks for \"incorrect options\" or allows for multiple correct answers, mark it as \"Ambiguous Answer\".\n3. **Open-Ended Reformulation Feasibility:** The question should be suitable for reformatting into an open-ended format. If the question cannot be easily reformulated into an open-ended problem and a clear ground-truth answer, mark it as \"Not Reformulatable\".\n\nFor each question, provide one of the following evaluations:  \n- \"Pass\" (The question meets all the criteria.)  \n- \"Too Simple\"  \n- \"Ambiguous Answer\"  \n- \"Not Reformulatable\" ",
+  "gpt_filter_response": "\"Ambiguous Answer\""
+}

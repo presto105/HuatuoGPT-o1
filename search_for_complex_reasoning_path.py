@@ -22,6 +22,7 @@ class GPT:
         self.api_key = api_key
         print(f"Using model: {self.model_name}")
 
+    # GPT API를 호출하는 기본 메서드
     def call(self, content, additional_args={}):
         headers = {
             "Content-Type": "application/json",
@@ -44,6 +45,7 @@ class GPT:
     def retry_call(self, content, additional_args={"max_tokens": 8192}):
         return self.call(content, additional_args)
 
+# 모델 응답과 참조 답변을 비교하여 정확성을 검증하는 프롬프트
 verify_prompt = """<Model Response>  
 {}  
 </Model Response>  
@@ -281,13 +283,13 @@ The <Internal Thinking> represents your internal thoughts about the <Question>. 
 # search strategies
 search_strategies = [('Backtracking',gen_prompt_rethink_Backtracking),('Exploring New Paths',gen_prompt_rethink_Exploring_New_Path),('Verification',gen_prompt_rethink_Verification),('Correction',gen_prompt_rethink_Correction)]
 
-
-
+# 중괄호로 둘러싸인 내용을 추출하는 함수
 def extract_bracket_content(text):
         # Extract content between the first '{' and the last '}'
         match = re.search(r'\{.*\}', text, re.DOTALL)
         return match.group(0) if match else None
 
+# GPT 응답을 파싱하는 함수
 def parse_gpt_response(response):
     try:
         if '{' != response[0]:
@@ -303,6 +305,7 @@ def parse_gpt_response(response):
         traceback.print_exc()
         return False,None
 
+# GPT 응답을 자연스러운 추론 형식으로 재구성하는 함수
 def parse_gpt_response_reformat(response):
     try:
         if '{' != response[0]:
@@ -524,7 +527,9 @@ def main():
 
     def merge_saved_files(save_dir):
         _, _, filenames = [i for i in os.walk(save_dir)][0]
-        json_files = [f for f in filenames if f.endswith('.json')]
+        json_files = [f for f in filenames if f.endswith('.json')] 
+        json_files.sort(key=lambda x: int(os.path.splitext(x)[0]))
+        
         res = []
         for file_path in json_files:
             try:
@@ -545,8 +550,8 @@ def main():
     input_data = deduplicate_data(data, processed_data)
     print(f"Items remaining for processing: {len(input_data)}")
 
-    with ThreadPoolExecutor(max_workers=args.num_process) as executor:
-        list(tqdm(executor.map(write_piece_order_data, data), total=len(data), desc="Processing samples", unit="sample"))
+    # with ThreadPoolExecutor(max_workers=args.num_process) as executor:
+    #     list(tqdm(executor.map(write_piece_order_data, data), total=len(data), desc="Processing samples", unit="sample"))
 
      # Merge and save final output
     final_data = merge_saved_files(save_dir)

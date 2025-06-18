@@ -17,6 +17,7 @@ class GPT:
         print(f"Using model: {self.model_name}")
 
     def call(self, content, additional_args={}):
+        # GPT API 호출을 위한 기본 메서드
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {self.api_key}"
@@ -55,6 +56,7 @@ def extract_bracket_content(text):
     return match.group(0) if match else None
 
 def parse_gpt_response(response):
+    # GPT 응답을 파싱하고 검증
     try:
         if not response.startswith('{'):
             response = extract_bracket_content(response)
@@ -70,15 +72,16 @@ def parse_gpt_response(response):
         return False, None
 
 def process_single_item(item, gpt_instance, save_directory, filter_prompt, reformat_prompt, filter_enabled):
+    # 단일 항목 처리 함수
     try:
         max_retries = 2
         save_path = os.path.join(save_directory, f"{item['process_id']}.json")
 
-        # Generate options string for the question
+        # 질문 옵션 문자열 생성
         item['options_str'] = '\n'.join([f"{key}. {value}" for key, value in item['options'].items()])
         question_text = f"{item['question']}\n{item['options_str']}"
 
-        # Filter questions if enabled
+       # 필터링이 활성화된 경우 질문 필터링
         if filter_enabled:
             filter_query = filter_prompt.format(question_text, item['answer'])
             item['gpt_filter_query'] = filter_query
@@ -90,7 +93,7 @@ def process_single_item(item, gpt_instance, save_directory, filter_prompt, refor
                     json.dump(item, file, ensure_ascii=False, indent=2)
                 return 1
 
-        # Reformat questions into open-ended format
+        # 질문을 개방형 형식으로 재구성
         reformat_query = reformat_prompt.format(question_text, item['answer'])
         item['gpt_reformat_query'] = reformat_query
 
@@ -112,19 +115,27 @@ def process_single_item(item, gpt_instance, save_directory, filter_prompt, refor
     return 1
 
 def merge_saved_files(directory):
+    # 디렉토리 내의 모든 파일 목록을 가져옴
     _, _, filenames = next(os.walk(directory))
+    
+    # .json으로 끝나는 파일들만 필터링
     json_files = [f for f in filenames if f.endswith('.json')]
+    json_files.sort(key=lambda x: int(os.path.splitext(x)[0]))
+    
     merged_data = []
-
     for file in json_files:
         try:
             with open(os.path.join(directory, file), 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                assert 'Open-ended Verifiable Question' in data or 'gpt_filter_response' in data  or 'gpt4_response_filter' in data
+                # 데이터가 필요한 키를 포함하고 있는지 확인
+                assert 'Open-ended Verifiable Question' in data or 'gpt_filter_response' in data or 'gpt4_response_filter' in data
                 merged_data.append(data)
         except Exception as e:
-            # traceback.print_exc()
+            # 오류 발생 시 파일명과 오류 메시지 출력
             print(f"Error merging file {file}: {e}")
+    
+    # process_id 기준으로 정렬
+    
     return merged_data
 
 def deduplicate_data(data, processed_data):
@@ -196,9 +207,9 @@ Please output the result in the following JSON format:
     input_data = deduplicate_data(input_data, processed_data)
     print(f"Items remaining for processing: {len(input_data)}")
 
-    # Process data using a thread pool
-    with ThreadPoolExecutor(max_workers=args.num_process) as executor:
-        list(tqdm(executor.map(lambda item: process_single_item(item, gpt_instance, save_directory, filter_prompt, reformat_prompt, args.filter_data), input_data), total=len(input_data), desc="Processing Items", unit="item"))
+    # # Process data using a thread pool
+    # with ThreadPoolExecutor(max_workers=args.num_process) as executor:
+    #     list(tqdm(executor.map(lambda item: process_single_item(item, gpt_instance, save_directory, filter_prompt, reformat_prompt, args.filter_data), input_data), total=len(input_data), desc="Processing Items", unit="item"))
 
     # Merge and save final output
     final_data = merge_saved_files(save_directory)

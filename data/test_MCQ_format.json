@@ -1,0 +1,2378 @@
+[
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: M,Height: 171.8 cm,Body weight: 56.0 kg,BMI: 18.97,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 8.73,Albumin: 3.6 g/dL,Lymphocyte: 3.4,Neutrophil: 3.44,LDH level: 157.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: PTEN,SMARCA4,TP53,CNV alterations: AR(loss),CDKN2A(loss),CDKN2B(loss),ERBB3(gain),ERCC1(gain),ERCC2(gain),FGF10(gain),FGF8(loss),JAK2(loss),PIK3CA(gain),PTEN(loss),RET(loss),RICTOR(gain),TP53(loss),Fusion genes: None,Splice variants: None,TMB: 14.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 79 years old,Sex: M,Height: 174.0 cm,Body weight: 72.0 kg,BMI: 23.78,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,WBC: 8.0,Albumin: 4.0 g/dL,Lymphocyte: 1.78,Neutrophil: 5.3,LDH level: 177.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: CTNNB1,CYLD,KMT2A,KRAS,MED12,NOTCH4,CNV alterations: MDM2(gain),Fusion genes: None,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 73 years old,Sex: F,Height: 158.0 cm,Body weight: 55.0 kg,BMI: 21.83,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 100%,PD-L1 (SP263): 100%,WBC: 15.65,Albumin: 3.0 g/dL,Lymphocyte: 1.39,Neutrophil: 13.19,LDH level: 499.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: BRAF,TP53,CNV alterations: PIK3CB(gain),Fusion genes: None,Splice variants: None,TMB: 8.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: M,Height: 162.0 cm,Body weight: 73.0 kg,BMI: 27.82,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Non-squamous carcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): <1%,WBC: 12.6,Albumin: 4.5 g/dL,Lymphocyte: 1.25,Neutrophil: 10.92,LDH level: 625.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: PIK3CA,RB1,STAG2,TP53,CNV alterations: ALK(gain),BCL6(gain),BRCA2(gain),CCND3(gain),ERBB2(gain),ESR1(gain),FGF10(gain),FGF7(loss),FGF9(gain),FGFR1(loss),FGFR3(loss),MYC(gain),MYCN(gain),NRG1(loss),PIK3CA(gain),PIK3CB(gain),PPP2R2A(loss),RAD51(loss),RICTOR(gain),TFRC(gain),ZFHX3(loss),Fusion genes: None,Splice variants: None,TMB: 12.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 73 years old,Sex: M,Height: 165.0 cm,Body weight: 67.0 kg,BMI: 24.61,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 5.77,Albumin: 4.2 g/dL,Lymphocyte: 1.45,Neutrophil: 3.69,LDH level: 542.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: CDKN1A,EGFR,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 76 years old,Sex: M,Height: 166.0 cm,Body weight: 64.2 kg,BMI: 23.3,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 90%,WBC: 9.65,Albumin: 3.9 g/dL,Lymphocyte: 2.59,Neutrophil: 5.85,LDH level: 229.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: M,Height: 173.0 cm,Body weight: 67.0 kg,BMI: 22.39,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 1~49%,PD-L1 (SP263): 60%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin -> Pemetrexed,SNV mutations: EGFR,RBM10,CNV alterations: CDK4(gain),Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 50 years old,Sex: M,Height: 165.2 cm,Body weight: 67.9 kg,BMI: 24.88,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 10.73,Albumin: 3.9 g/dL,Lymphocyte: 2.35,Neutrophil: 7.06,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Lazertinib,SNV mutations: EGFR,MSH2,TP53,CNV alterations: CCNE1(gain),EGFR(gain),ERCC1(gain),ERCC2(gain),ETV1(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 29.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: M,Height: 176.0 cm,Body weight: 64.0 kg,BMI: 20.72,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 12.24,Albumin: 3.8 g/dL,Lymphocyte: 1.43,Neutrophil: 10.07,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: KRAS,MSH2,TP53,CNV alterations: CCND3(gain),FGFR4(gain),Fusion genes: None,Splice variants: None,TMB: 10.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: M,Height: 166.0 cm,Body weight: 58.0 kg,BMI: 21.05,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,ROS1 status: Positive,PD-L1 group: 1~49%,PD-L1 (SP263): 15%,WBC: 9.02,Albumin: 4.7 g/dL,Lymphocyte: 1.62,Neutrophil: 6.18,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Crizotinib,SNV mutations: KMT2A,MSH3,CNV alterations: None,Fusion genes: ROS1,Splice variants: None,TMB: 11.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: M,Height: 175.2 cm,Body weight: 70.7 kg,BMI: 23.03,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 5.88,Albumin: 4.2 g/dL,Lymphocyte: 1.28,Neutrophil: 3.92,LDH level: 197.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: CDKN1B,EGFR,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 9.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 72 years old,Sex: M,Height: 174.0 cm,Body weight: 65.1 kg,BMI: 21.5,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 35%,PD-L1 (SP263): 30%,WBC: 7.9,Albumin: 4.1 g/dL,Lymphocyte: 1.82,Neutrophil: 5.02,LDH level: 130.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Paclitaxel/Carboplatin,SNV mutations: B2M,DNMT3A,EED,PTCH1,RBM10,SLX4,STK11,TP53,CNV alterations: CDK4(gain),Fusion genes: None,Splice variants: None,TMB: 59.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: F,Height: 150.0 cm,Body weight: 58.0 kg,BMI: 25.78,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 7.22,Albumin: 4.6 g/dL,Lymphocyte: 3.06,Neutrophil: 3.6,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: None,CNV alterations: CCND3(gain),Fusion genes: None,Splice variants: EGFR,TMB: 7.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 79 years old,Sex: F,Height: 149.0 cm,Body weight: 52.0 kg,BMI: 23.42,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Positive,ROS1 status: Positive,WBC: 10.22,Albumin: 4.2 g/dL,Lymphocyte: 2.22,Neutrophil: 6.54,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: None,CNV alterations: None,Fusion genes: ALK,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 83 years old,Sex: F,Height: 143.7 cm,Body weight: 48.3 kg,BMI: 23.39,Smoking history: Never smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 7.2,Albumin: 3.7 g/dL,Lymphocyte: 1.65,Neutrophil: 4.83,LDH level: 248.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: NSD1,RB1,TP53,CNV alterations: CCND1(loss),FGF10(gain),FGF3(loss),FGF4(loss),FGF8(loss),PIK3CA(gain),PIK3CB(gain),SOX2(gain),TFRC(gain),TP63(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 54 years old,Sex: M,Height: 178.0 cm,Body weight: 73.0 kg,BMI: 23.15,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 95%,PD-L1 (SP263): 95%,WBC: 5.94,Albumin: 4.6 g/dL,Lymphocyte: 2.57,Neutrophil: 2.69,LDH level: 152.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: FAT1,KRAS,CNV alterations: CHEK1(gain),Fusion genes: None,Splice variants: None,TMB: 2.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 86 years old,Sex: M,Height: 162.0 cm,Body weight: 54.1 kg,BMI: 20.61,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: NSCLC, NOS,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 7.14,Albumin: 3.5 g/dL,Lymphocyte: 0.65,Neutrophil: 5.45,LDH level: 422.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Carboplatin,SNV mutations: TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 52 years old,Sex: F,Height: 155.5 cm,Body weight: 62.6 kg,BMI: 25.89,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 70%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Cisplatin,SNV mutations: MET,CNV alterations: None,Fusion genes: None,Splice variants: MET,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: M,Height: 171.1 cm,Body weight: 64.0 kg,BMI: 21.86,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 5.19,Albumin: 4.6 g/dL,Lymphocyte: 1.66,Neutrophil: 3.0,LDH level: Unknown U/L,Treatment type: Immunotherapy,Treatment regimen: Atezolizumab,SNV mutations: CDKN2A,TP53,CNV alterations: PIK3CA(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 43 years old,Sex: F,Height: 172.0 cm,Body weight: 60.0 kg,BMI: 20.28,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Positive,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 70%,PD-L1 (SP263): 60%,WBC: 13.55,Albumin: 4.2 g/dL,Lymphocyte: 1.34,Neutrophil: 11.14,LDH level: 237.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Alectinib,SNV mutations: None,CNV alterations: None,Fusion genes: ALK,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "A",
+    "answer": "CR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 55 years old,Sex: F,Height: 160.0 cm,Body weight: 56.0 kg,BMI: 21.88,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,WBC: 6.0,Albumin: 4.3 g/dL,Lymphocyte: 2.01,Neutrophil: 3.36,LDH level: 343.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Tremelimumab/Durvalumab/Pemetrexed/Carboplatin,SNV mutations: ERBB2,CNV alterations: MDM2(gain),Fusion genes: None,Splice variants: None,TMB: 4.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 41 years old,Sex: M,Height: 179.0 cm,Body weight: 78.0 kg,BMI: 24.34,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Positive,PD-L1 group: >50%,PD-L1 (22C3): 95%,PD-L1 (SP263): 95%,WBC: 9.27,Albumin: 3.1 g/dL,Lymphocyte: 1.54,Neutrophil: 6.68,LDH level: 157.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Crizotinib,SNV mutations: NCOR1,NF1,TP53,CNV alterations: None,Fusion genes: ROS1,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 60 years old,Sex: M,Height: 175.6 cm,Body weight: 61.2 kg,BMI: 19.85,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 0%,WBC: 10.3,Albumin: 3.1 g/dL,Lymphocyte: 0.31,Neutrophil: 9.54,LDH level: 439.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: ARID1A,B2M,KEAP1,PTPRD,SMAD4,TP53,CNV alterations: ERBB2(gain),MET(gain),Fusion genes: None,Splice variants: None,TMB: 29.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: F,Height: 156.5 cm,Body weight: 52.1 kg,BMI: 21.27,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 0%,PD-L1 (SP263): 2%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Paclitaxel/Carboplatin,SNV mutations: ERRFI1,SETD2,TP53,CNV alterations: EGFR(gain),Fusion genes: RET,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 80 years old,Sex: F,Height: 159.0 cm,Body weight: 59.0 kg,BMI: 23.34,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 3.52,Albumin: 3.8 g/dL,Lymphocyte: 1.51,Neutrophil: 1.49,LDH level: 166.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: None,CNV alterations: CDK4(gain),ERBB3(gain),ERCC1(gain),FGF10(gain),FGFR1(gain),MDM2(gain),MYC(gain),RICTOR(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 74 years old,Sex: M,Height: 168.0 cm,Body weight: 75.0 kg,BMI: 26.57,Smoking history: Former smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,PD-L1 (22C3): <1%,PD-L1 (SP263): <1%,WBC: 6.73,Albumin: 4.5 g/dL,Lymphocyte: 1.44,Neutrophil: 4.33,LDH level: 224.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Carboplatin,SNV mutations: TP53,CNV alterations: CDK4(gain),CDK6(gain),FGFR1(gain),MYC(gain),PIK3CA(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: M,Height: 170.0 cm,Body weight: 74.0 kg,BMI: 25.61,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 50%,WBC: 10.55,Albumin: 3.4 g/dL,Lymphocyte: 1.06,Neutrophil: 8.56,LDH level: 426.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: BRAF,IDH1,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 46 years old,Sex: F,Height: 162.0 cm,Body weight: 74.5 kg,BMI: 28.39,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 3.57,Albumin: 3.8 g/dL,Lymphocyte: 1.23,Neutrophil: 1.81,LDH level: 163.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: ERBB2,PTEN,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 73 years old,Sex: M,Height: 175.2 cm,Body weight: 76.0 kg,BMI: 24.76,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: 30%,PD-L1 group: 1~49%,PD-L1 (22C3): 20%,PD-L1 (SP263): 20%,WBC: 4.2,Albumin: 4.5 g/dL,Lymphocyte: 0.85,Neutrophil: 2.67,LDH level: Unknown U/L,Treatment type: Immunotherapy,Treatment regimen: Atezolizumab/Tiragolumab,SNV mutations: KRAS,CNV alterations: CDK4(gain),FRS2(gain),MDM2(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: F,Height: 164.0 cm,Body weight: 61.0 kg,BMI: 22.68,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 2%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed,SNV mutations: CTNNB1,ERBB2,TP53,CNV alterations: BRCA1(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: F,Height: 152.0 cm,Body weight: 48.0 kg,BMI: 20.78,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 7%,WBC: 6.18,Albumin: 3.9 g/dL,Lymphocyte: 1.83,Neutrophil: 3.96,LDH level: 155.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: None,CNV alterations: CDK4(gain),EGFR(gain),FGF10(gain),FRS2(gain),H3F3C(gain),MDM2(gain),RICTOR(gain),RPS6KB1(gain),Fusion genes: EGFR,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: M,Height: 176.0 cm,Body weight: 70.0 kg,BMI: 22.6,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 0%,PD-L1 (SP263): 10%,WBC: 15.07,Albumin: 4.7 g/dL,Lymphocyte: 1.44,Neutrophil: 13.27,LDH level: 182.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 75 years old,Sex: F,Height: 166.0 cm,Body weight: 59.0 kg,BMI: 21.41,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: L858R,T790M,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 4.99,Albumin: 4.3 g/dL,Lymphocyte: 1.5,Neutrophil: 3.08,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Paclitaxel/Carboplatin,SNV mutations: EGFR,KRAS,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: M,Height: 167.0 cm,Body weight: 65.0 kg,BMI: 23.31,Smoking history: Current smoker,Cancer stage: SCLC,Histology: small cell carcinoma,Liver metastasis: Yes,Brain metastasis: No,WBC: 8.02,Albumin: 4.7 g/dL,Lymphocyte: 2.3,Neutrophil: 4.85,LDH level: 221.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Etoposide/Carboplatin/Durvalumab,SNV mutations: NCOR1,PIK3CA,TP53,CNV alterations: CCND1(gain),FGF19(gain),FGF3(gain),FGF4(gain),Fusion genes: None,Splice variants: None,TMB: 9.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: F,Height: 169.0 cm,Body weight: 52.0 kg,BMI: 18.13,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 5%,WBC: 5.67,Albumin: 4.0 g/dL,Lymphocyte: 1.15,Neutrophil: 3.91,LDH level: 181.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: KRAS,TP53,CNV alterations: None,Fusion genes: None,Splice variants: EGFR,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: F,Height: 158.0 cm,Body weight: 54.0 kg,BMI: 21.63,Smoking history: Never smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 80%,PD-L1 (SP263): 70%,WBC: 9.03,Albumin: 3.6 g/dL,Lymphocyte: 1.96,Neutrophil: 5.95,LDH level: 183.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: EGFR,NF2,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 7.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 82 years old,Sex: M,Height: 171.0 cm,Body weight: 68.6 kg,BMI: 23.46,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 100%,WBC: 4.8,Albumin: 4.2 g/dL,Lymphocyte: 1.41,Neutrophil: 2.79,LDH level: 235.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: KDM6A,KRAS,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 8.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: M,Height: 168.0 cm,Body weight: 52.0 kg,BMI: 18.36,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: >50%,PD-L1 (22C3): 100%,PD-L1 (SP263): 100%,WBC: 8.75,Albumin: 2.7 g/dL,Lymphocyte: 1.4,Neutrophil: 6.26,LDH level: 116.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: CHEK2,CNV alterations: None,Fusion genes: RET,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 76 years old,Sex: F,Height: 153.0 cm,Body weight: 70.0 kg,BMI: 29.9,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 20%,PD-L1 (SP263): 20%,WBC: 6.62,Albumin: 3.8 g/dL,Lymphocyte: 2.96,Neutrophil: 3.19,LDH level: 244.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,MUTYH,NF2,TP53,CNV alterations: CCND3(gain),CDK6(gain),EGFR(gain),MET(gain),Fusion genes: None,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: F,Height: 156.2 cm,Body weight: 53.8 kg,BMI: 22.05,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 60%,WBC: 15.71,Albumin: 3.0 g/dL,Lymphocyte: 1.2,Neutrophil: 13.14,LDH level: 303.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: ALK,KRAS,TP53,CNV alterations: AR(loss),BRAF(gain),BRCA2(loss),CDK6(gain),FGF10(gain),FGF14(loss),FGF6(loss),FGF9(loss),FGFR1(loss),FOXA1(gain),KRAS(gain),LAMP1(loss),MDM4(gain),MET(gain),MYC(gain),MYCN(loss),NKX2-1(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 11.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: F,Height: 159.0 cm,Body weight: 53.2 kg,BMI: 21.04,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 4.27,Albumin: 4.7 g/dL,Lymphocyte: 1.85,Neutrophil: 2.06,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: MK-5890/Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: GATA3,CNV alterations: FGF23(gain),FGF6(gain),FGFR1(gain),MYC(gain),Fusion genes: None,Splice variants: AR,TMB: 8.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 56 years old,Sex: F,Height: 159.8 cm,Body weight: 53.1 kg,BMI: 20.79,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 90%,PD-L1 (SP263): 90%,WBC: 10.98,Albumin: 3.8 g/dL,Lymphocyte: 1.02,Neutrophil: 8.57,LDH level: 256.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Pralsetinib,SNV mutations: TP53,CNV alterations: None,Fusion genes: RET,Splice variants: None,TMB: 3.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: M,Height: 170.9 cm,Body weight: 62.8 kg,BMI: 21.5,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 7.66,Albumin: 4.7 g/dL,Lymphocyte: 3.02,Neutrophil: 4.16,LDH level: 211.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: MEN1,CNV alterations: ARID1B(loss),ATM(loss),CDKN1A(loss),CHEK1(loss),MEN1(loss),NOTCH4(loss),WT1(loss),Fusion genes: None,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 83 years old,Sex: F,Height: 150.0 cm,Body weight: 55.0 kg,BMI: 24.44,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 10%,WBC: 8.88,Albumin: 3.3 g/dL,Lymphocyte: 1.26,Neutrophil: 6.85,LDH level: 199.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: DNMT3A,KRAS,RBM10,SF3B1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: M,Height: 166.0 cm,Body weight: 49.0 kg,BMI: 17.78,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 18.94,Albumin: 4.1 g/dL,Lymphocyte: 2.93,Neutrophil: 15.06,LDH level: 136.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: APC,ARID1A,STK11,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 16.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: M,Height: 169.4 cm,Body weight: 77.2 kg,BMI: 26.9,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 1%,WBC: 9.79,Albumin: 3.6 g/dL,Lymphocyte: 2.91,Neutrophil: 5.8,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizuamb/Pemetrexed/Carbopaltin,SNV mutations: TP53,CNV alterations: CCNE1(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 55 years old,Sex: M,Height: 169.4 cm,Body weight: 72.0 kg,BMI: 25.09,Smoking history: Current smoker,Cancer stage: SCLC,Histology: small cell carcinoma,Liver metastasis: No,Brain metastasis: Yes,WBC: 5.03,Albumin: 4.4 g/dL,Lymphocyte: 1.35,Neutrophil: 3.13,LDH level: 185.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Belotecan,SNV mutations: RB1,SETD2,TP53,CNV alterations: B2M(loss),ERBB2(gain),FGF7(loss),JAK2(loss),PIK3CA(gain),PIK3CB(gain),TFRC(gain),Fusion genes: None,Splice variants: None,TMB: 10.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 63 years old,Sex: M,Height: 161.9 cm,Body weight: 60.6 kg,BMI: 23.12,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 10.9,Albumin: 4.3 g/dL,Lymphocyte: 3.58,Neutrophil: 6.03,LDH level: 235.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Nivolumab/Ipilimumab/Paclitaxel/Carboplatin,SNV mutations: CDKN2A,SMARCA4,STK11,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 25.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 74 years old,Sex: M,Height: 156.8 cm,Body weight: 56.5 kg,BMI: 22.98,Smoking history: Former smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: Yes,PD-L1 group: 1~49%,PD-L1 (SP263): 1%,WBC: 8.69,Albumin: 4.5 g/dL,Lymphocyte: 2.12,Neutrophil: 5.73,LDH level: Unknown U/L,Treatment type: Immunotherapy,Treatment regimen: Atezolizumab,SNV mutations: ARID1A,NBN,PTPRD,RB1,TP53,CNV alterations: ERCC1(gain),ERCC2(gain),Fusion genes: None,Splice variants: None,TMB: 9.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: M,Height: 162.3 cm,Body weight: 65.1 kg,BMI: 24.71,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 15%,WBC: 16.26,Albumin: 2.2 g/dL,Lymphocyte: 0.64,Neutrophil: 14.69,LDH level: 409.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: BRAF,MTOR,NF2,NOTCH4,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 0.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: M,Height: 163.9 cm,Body weight: 56.7 kg,BMI: 21.11,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 20%,WBC: 11.5,Albumin: 4.4 g/dL,Lymphocyte: 2.45,Neutrophil: 7.28,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: IDH2,KDM6A,NF1,PIK3CA,CNV alterations: None,Fusion genes: NOTCH3,Splice variants: None,TMB: 13.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 61 years old,Sex: M,Height: 169.0 cm,Body weight: 69.0 kg,BMI: 24.13,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 1~49%,PD-L1 (22C3): 30%,WBC: 16.21,Albumin: 3.4 g/dL,Lymphocyte: 0.74,Neutrophil: 15.19,LDH level: 173.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin->Lenvatinib,SNV mutations: None,CNV alterations: None,Fusion genes: RET,Splice variants: None,TMB: 0.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: M,Height: 180.3 cm,Body weight: 70.8 kg,BMI: 21.78,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 10%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin -> Docetaxel/Cisplatin,SNV mutations: CDH1,GPS2,TP53,CNV alterations: CCND1(gain),FGF19(gain),FGF3(gain),FGF4(gain),Fusion genes: None,Splice variants: None,TMB: 11.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 91 years old,Sex: M,Height: 160.8 cm,Body weight: 58.2 kg,BMI: 22.51,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 10%,PD-L1 (SP263): 10%,WBC: 11.03,Albumin: 3.9 g/dL,Lymphocyte: 1.82,Neutrophil: 7.73,LDH level: 265.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: ARID1A,ATM,BRAF,DNMT3A,EIF1AX,NOTCH4,RBM10,TET2,TP53,U2AF1,CNV alterations: CCNE1(gain),Fusion genes: None,Splice variants: None,TMB: 44.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 53 years old,Sex: M,Height: 172.0 cm,Body weight: 60.0 kg,BMI: 20.28,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,ALK status: Positive,PD-L1 group: 1~49%,PD-L1 (SP263): 10%,WBC: 11.28,Albumin: 4.3 g/dL,Lymphocyte: 1.33,Neutrophil: 8.96,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib -> Gefitinib,SNV mutations: EGFR,RB1,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 62 years old,Sex: M,Height: 163.0 cm,Body weight: 56.0 kg,BMI: 21.08,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Non-squamous carcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 8.33,Albumin: 4.2 g/dL,Lymphocyte: 1.77,Neutrophil: 5.94,LDH level: 272.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: PHOX2B,SMARCA4,TP53,CNV alterations: ATM(loss),BCL6(gain),CCND3(gain),CDKN2A(loss),CDKN2B(loss),EGFR(gain),ERCC2(gain),FGF8(loss),FGFR2(gain),KDR(gain),KIT(gain),NRAS(loss),NTRK1(gain),PDGFRA(gain),PIK3CA(gain),PTEN(loss),TFRC(gain),VEGFA(gain),Fusion genes: None,Splice variants: None,TMB: 10.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 61 years old,Sex: M,Height: 169.2 cm,Body weight: 50.0 kg,BMI: 17.47,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,PD-L1 group: 1~49%,PD-L1 (SP263): 1%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: APC,EGFR,TP53,CNV alterations: BRCA2(gain),EGFR(gain),FGF14(gain),FGF4(gain),FGF9(gain),LAMP1(gain),MET(gain),Fusion genes: None,Splice variants: None,TMB: 4.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 76 years old,Sex: M,Height: 166.0 cm,Body weight: 66.0 kg,BMI: 23.84,Smoking history: Former smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 8.25,Albumin: 4.9 g/dL,Lymphocyte: 2.08,Neutrophil: 5.39,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: CDKN2A,NF1,NFE2L2,RASA1,TET2,CNV alterations: PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 15.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: M,Height: 164.0 cm,Body weight: 59.5 kg,BMI: 22.12,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: None,CNV alterations: PIK3CA(gain),PIK3CB(gain),RICTOR(gain),Fusion genes: None,Splice variants: MET,TMB: 3.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: M,Height: 165.0 cm,Body weight: 82.0 kg,BMI: 30.34,Smoking history: Current smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 10.0,Albumin: 4.4 g/dL,Lymphocyte: 4.28,Neutrophil: 4.78,LDH level: 203.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: TP53,CNV alterations: CDKN2A(loss),CDKN2B(loss),FGF10(gain),MYC(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 79 years old,Sex: M,Height: 167.0 cm,Body weight: 57.0 kg,BMI: 20.44,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 7.72,Albumin: 4.3 g/dL,Lymphocyte: 3.27,Neutrophil: 3.57,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: EGFR,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 60 years old,Sex: F,Height: 155.0 cm,Body weight: 51.0 kg,BMI: 21.23,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Positive,PD-L1 group: 1~49%,PD-L1 (SP263): 5%,WBC: 6.02,Albumin: 4.1 g/dL,Lymphocyte: 1.87,Neutrophil: 3.48,LDH level: 193.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Lorlatinib,SNV mutations: None,CNV alterations: FGF1(gain),FGF10(gain),FGFR4(gain),MYCN(loss),PDGFRB(gain),RICTOR(gain),Fusion genes: ALK,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 80 years old,Sex: F,Height: 153.0 cm,Body weight: 45.8 kg,BMI: 19.57,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 10%,WBC: 6.94,Albumin: 4.5 g/dL,Lymphocyte: 1.96,Neutrophil: 4.15,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Paclitaxel/Carboplatin,SNV mutations: CREBBP,FBXW7,PTEN,RB1,TP53,CNV alterations: BRCA2(loss),CCND3(loss),FGF1(loss),FGF10(gain),FGF14(loss),FGF5(loss),FGF8(loss),FGFR1(gain),FGFR3(loss),FGFR4(loss),LAMP1(loss),MYC(gain),NRG1(gain),PDGFRB(loss),PTEN(loss),RET(loss),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 11.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: M,Height: 167.0 cm,Body weight: 81.0 kg,BMI: 29.04,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 6.67,Albumin: 4.9 g/dL,Lymphocyte: 1.54,Neutrophil: 4.06,LDH level: 170.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: KRAS,RAD50,RBM10,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 15.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 72 years old,Sex: M,Height: 167.0 cm,Body weight: 56.0 kg,BMI: 19.98,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,WBC: 7.5,Albumin: 4.3 g/dL,Lymphocyte: 2.7,Neutrophil: 3.99,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: APC,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 45 years old,Sex: F,Height: 159.0 cm,Body weight: 57.0 kg,BMI: 22.7,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 5.49,Albumin: 2.3 g/dL,Lymphocyte: 0.69,Neutrophil: 4.43,LDH level: 386.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: KRAS,STK11,TP53,CNV alterations: MYC(gain),Fusion genes: None,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: F,Height: 149.0 cm,Body weight: 52.0 kg,BMI: 23.36,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 9.41,Albumin: 4.2 g/dL,Lymphocyte: 2.29,Neutrophil: 6.47,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: KRAS,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 5.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 61 years old,Sex: M,Height: 173.0 cm,Body weight: 80.0 kg,BMI: 26.86,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 7.77,Albumin: 3.9 g/dL,Lymphocyte: 2.89,Neutrophil: 3.86,LDH level: 1132.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: SMAD4,CNV alterations: None,Fusion genes: RET,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: M,Height: 163.5 cm,Body weight: 61.9 kg,BMI: 23.16,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 1%,WBC: 10.99,Albumin: 4.3 g/dL,Lymphocyte: 1.45,Neutrophil: 8.51,LDH level: 206.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: KRAS,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 3.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: M,Height: 165.5 cm,Body weight: 69.6 kg,BMI: 25.41,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 6.92,Albumin: 4.4 g/dL,Lymphocyte: 0.96,Neutrophil: 5.04,LDH level: 205.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Atezolizumab,SNV mutations: ARID1A,KRAS,PPP2R1A,STK11,TET1,TP53,CNV alterations: FOXA1(gain),KRAS(gain),NKX2-1(gain),Fusion genes: None,Splice variants: None,TMB: 18.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 72 years old,Sex: M,Height: 173.0 cm,Body weight: 80.0 kg,BMI: 26.73,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: L858R,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 10%,WBC: 9.43,Albumin: 4.3 g/dL,Lymphocyte: 3.29,Neutrophil: 5.06,LDH level: 143.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: EGFR,RB1,TP53,CNV alterations: BRCA2(gain),CCND3(gain),EGFR(gain),FGF14(gain),FGF9(gain),LAMP1(gain),MYCL(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 75 years old,Sex: M,Height: 170.0 cm,Body weight: 81.0 kg,BMI: 28.05,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 80%,PD-L1 (SP263): 80%,WBC: 7.33,Albumin: 3.8 g/dL,Lymphocyte: 1.94,Neutrophil: 4.69,LDH level: 191.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: NF2,TERT,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 8.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 44 years old,Sex: F,Height: 164.0 cm,Body weight: 56.0 kg,BMI: 20.82,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Positive,PD-L1 group: >50%,PD-L1 (22C3): 60%,PD-L1 (SP263): 50%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: CTNNB1,PIK3CD,TP53,CNV alterations: MYC(loss),Fusion genes: ALK,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 57 years old,Sex: M,Height: 150.0 cm,Body weight: 60.0 kg,BMI: 26.67,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma or large cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 80%,PD-L1 (SP263): 80%,WBC: 7.56,Albumin: 4.1 g/dL,Lymphocyte: 1.78,Neutrophil: 4.8,LDH level: 196.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Cisplatin,SNV mutations: TP53,CNV alterations: MET(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 59 years old,Sex: M,Height: 168.0 cm,Body weight: 82.6 kg,BMI: 29.27,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 90%,WBC: 7.92,Albumin: 3.5 g/dL,Lymphocyte: 1.58,Neutrophil: 5.59,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: EGFR,SF3B1,CNV alterations: EGFR(gain),FGFR1(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 72 years old,Sex: M,Height: 173.9 cm,Body weight: 93.0 kg,BMI: 30.75,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 70%,WBC: 5.98,Albumin: 4.2 g/dL,Lymphocyte: 0.65,Neutrophil: 4.32,LDH level: 188.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Durvalumab/Oleclumab/Monalizumab/Placebo,SNV mutations: NFE2L2,PIK3CA,TP53,CNV alterations: ALK(gain),FGF10(gain),JAK2(loss),MYC(gain),MYCN(gain),PAK7(gain),PIK3CA(gain),PIK3CB(gain),RICTOR(gain),TFRC(gain),Fusion genes: None,Splice variants: None,TMB: 9.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 69 years old,Sex: M,Height: 166.0 cm,Body weight: 69.0 kg,BMI: 24.9,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,WBC: 8.08,Albumin: 4.6 g/dL,Lymphocyte: 1.74,Neutrophil: 5.53,LDH level: 183.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin/MK4830,SNV mutations: ARID2,PIK3CA,STK11,TP53,CNV alterations: NKX2-1(loss),Fusion genes: None,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: F,Height: 168.0 cm,Body weight: 93.0 kg,BMI: 32.95,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Positive,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 11.32,Albumin: 4.4 g/dL,Lymphocyte: 2.64,Neutrophil: 7.41,LDH level: 226.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Alectinib,SNV mutations: None,CNV alterations: None,Fusion genes: ALK,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: F,Height: 149.9 cm,Body weight: 54.0 kg,BMI: 24.03,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 90%,WBC: 7.36,Albumin: 4.1 g/dL,Lymphocyte: 1.64,Neutrophil: 4.84,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: ARID1A,TP53,CNV alterations: CDKN2A(loss),CDKN2B(loss),EGFR(gain),ETV1(gain),JUN(gain),Fusion genes: RET,Splice variants: None,TMB: 7.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 69 years old,Sex: F,Height: 162.0 cm,Body weight: 61.0 kg,BMI: 23.24,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma or large cell carcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 5%,WBC: 4.68,Albumin: 5.1 g/dL,Lymphocyte: 1.31,Neutrophil: 2.92,LDH level: 430.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: EPHA7,PPP2R2A,PTEN,TP53,CNV alterations: BRAF(gain),CCNE1(gain),CDK12(gain),CYLD(loss),EGFR(gain),ERBB2(gain),JAK3(gain),KDR(gain),KIT(gain),MAP3K1(loss),MEF2B(gain),MET(gain),MSH3(loss),PDGFRA(gain),PIK3R2(gain),RAF1(gain),RASA1(loss),TGFBR1(loss),Fusion genes: None,Splice variants: None,TMB: 14.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 52 years old,Sex: F,Height: 158.5 cm,Body weight: 68.6 kg,BMI: 27.31,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): >50%,WBC: 6.06,Albumin: 4.9 g/dL,Lymphocyte: 1.28,Neutrophil: 4.12,LDH level: 147.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,TP53,CNV alterations: BRAF(gain),EGFR(gain),GATA1(gain),MET(gain),TFE3(gain),Fusion genes: None,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 79 years old,Sex: M,Height: 161.0 cm,Body weight: 49.0 kg,BMI: 18.9,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 50%,PD-L1 (SP263): 50%,WBC: 4.99,Albumin: 3.1 g/dL,Lymphocyte: 1.22,Neutrophil: 2.98,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: ERRFI1,SMAD4,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 24.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: M,Height: 166.0 cm,Body weight: 74.0 kg,BMI: 26.85,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 5%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin -> Pemetrexed/Carboplatin,SNV mutations: ATR,CYLD,ERCC4,KEAP1,KMT2A,NOTCH4,TP53,CNV alterations: CCNE1(gain),FGF10(gain),FGFR1(gain),MYC(gain),MYCL(gain),PIK3CA(gain),PIK3CB(gain),TFRC(gain),Fusion genes: None,Splice variants: None,TMB: 25.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: F,Height: 154.8 cm,Body weight: 55.0 kg,BMI: 22.95,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: 30%,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 5%,WBC: 7.17,Albumin: 4.7 g/dL,Lymphocyte: 1.24,Neutrophil: 5.22,LDH level: 196.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: ERBB2,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: F,Height: 160.0 cm,Body weight: 46.0 kg,BMI: 17.97,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 60%,PD-L1 (SP263): 40%,WBC: 5.42,Albumin: 3.8 g/dL,Lymphocyte: 0.97,Neutrophil: 3.74,LDH level: 156.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: CDKN2A,KDM6A,TP53,CNV alterations: BIRC3(gain),BRAF(loss),FGF6(loss),FGFR1(gain),FGFR3(loss),KRAS(gain),MET(gain),MYC(gain),NRAS(loss),PIK3CA(gain),RPS6KB1(gain),TFRC(gain),VEGFA(gain),Fusion genes: FGFR3,Splice variants: None,TMB: 13.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 86 years old,Sex: M,Height: 170.0 cm,Body weight: 70.0 kg,BMI: 24.22,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 5.39,Albumin: 4.5 g/dL,Lymphocyte: 1.55,Neutrophil: 3.25,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: IGF1,NOTCH1,TP53,CNV alterations: CCNE1(gain),CDK6(gain),FGF10(gain),FGFR1(gain),JAK2(gain),MDM4(gain),MYC(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 14.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 51 years old,Sex: F,Height: 160.5 cm,Body weight: 95.8 kg,BMI: 37.19,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (SP263): <1%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Cisplatin,SNV mutations: None,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 79 years old,Sex: M,Height: 169.5 cm,Body weight: 61.8 kg,BMI: 21.51,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: 100%,PD-L1 group: 0%,PD-L1 (SP263): <1%,WBC: 5.02,Albumin: 3.7 g/dL,Lymphocyte: 1.43,Neutrophil: 2.95,LDH level: 195.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: KRAS,PIK3CA,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 73 years old,Sex: F,Height: 154.0 cm,Body weight: 43.0 kg,BMI: 18.13,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: L858R,T790M,PD-L1 group: 1~49%,PD-L1 (22C3): 3%,PD-L1 (SP263): 3%,WBC: 7.85,Albumin: 4.4 g/dL,Lymphocyte: 2.88,Neutrophil: 4.05,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: EGFR,PIK3CB,TP53,CNV alterations: BRCA1(loss),BRCA2(loss),CDK6(gain),CHEK2(loss),DIS3(loss),EGFR(gain),EP300(loss),ERCC2(gain),FGF14(loss),FGF9(loss),LAMP1(loss),MET(gain),MYCL(gain),NF2(loss),NRAS(gain),RB1(loss),RPS6KB1(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: F,Height: 160.0 cm,Body weight: 60.0 kg,BMI: 23.44,Smoking history: Never smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Cisplatin,SNV mutations: TP53,CNV alterations: RICTOR(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 31 years old,Sex: F,Height: 170.9 cm,Body weight: 52.0 kg,BMI: 17.8,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 5.75,Albumin: 4.5 g/dL,Lymphocyte: 1.84,Neutrophil: 3.28,LDH level: 168.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,PTEN,RB1,TP53,CNV alterations: BRCA2(gain),EGFR(gain),FGF6(loss),FGF7(loss),FOXA1(gain),LAMP1(gain),NKX2-1(gain),NTRK1(gain),PIK3CA(gain),PIK3CB(gain),Fusion genes: None,Splice variants: None,TMB: 3.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 74 years old,Sex: M,Height: 164.0 cm,Body weight: 60.0 kg,BMI: 22.31,Smoking history: Current smoker,Cancer stage: SCLC,Histology: small cell carcinoma,Liver metastasis: No,Brain metastasis: No,WBC: 7.38,Albumin: 4.1 g/dL,Lymphocyte: 2.49,Neutrophil: 4.2,LDH level: 197.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Atezolizumab/Etoposide/Carboplatin,SNV mutations: NCOR1,PTEN,RB1,TP53,CNV alterations: FGF10(gain),MYC(gain),PIK3CA(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 80 years old,Sex: M,Height: 166.1 cm,Body weight: 50.7 kg,BMI: 18.38,Smoking history: Former smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,WBC: 8.83,Albumin: 4.5 g/dL,Lymphocyte: 3.05,Neutrophil: 4.91,LDH level: 164.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Atezolizumab/Tiragolumab,SNV mutations: TP53,CNV alterations: EGFR(gain),JAK2(gain),Fusion genes: None,Splice variants: EGFR,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: M,Height: 165.6 cm,Body weight: 64.5 kg,BMI: 23.52,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 9.05,Albumin: 4.2 g/dL,Lymphocyte: 1.27,Neutrophil: 6.72,LDH level: 318.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: ERBB2,TP53,CNV alterations: ERBB2(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: M,Height: 162.0 cm,Body weight: 58.7 kg,BMI: 22.37,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 30%,WBC: 3.44,Albumin: 4.6 g/dL,Lymphocyte: 1.07,Neutrophil: 1.71,LDH level: Unknown U/L,Treatment type: Immunotherapy,Treatment regimen: Nivolumab -> Pemetrexed/Cisplatin,SNV mutations: None,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 53 years old,Sex: M,Height: 170.9 cm,Body weight: 72.0 kg,BMI: 24.65,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 5%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 0.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 75 years old,Sex: F,Height: 154.0 cm,Body weight: 62.0 kg,BMI: 26.14,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Positive,ROS1 status: 40%,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 5.86,Albumin: 4.3 g/dL,Lymphocyte: 2.81,Neutrophil: 2.1,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: EGFR,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: M,Height: 172.2 cm,Body weight: 85.4 kg,BMI: 28.8,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: L858R,T790M,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 60%,WBC: 6.15,Albumin: 3.6 g/dL,Lymphocyte: 0.41,Neutrophil: 4.95,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: EGFR,RBM10,TP63,CNV alterations: EGFR(gain),MDM2(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 75 years old,Sex: M,Height: 158.0 cm,Body weight: 63.0 kg,BMI: 25.4,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 5%,WBC: 9.28,Albumin: 4.6 g/dL,Lymphocyte: 2.69,Neutrophil: 5.03,LDH level: 154.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: ASXL1,CTNNB1,CNV alterations: ARFRP1(gain),CCNE1(gain),MDM2(gain),YAP1(gain),Fusion genes: RET,Splice variants: None,TMB: 8.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: M,Height: 156.6 cm,Body weight: 54.0 kg,BMI: 22.02,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 10%,PD-L1 (SP263): 20%,WBC: 9.25,Albumin: 3.8 g/dL,Lymphocyte: 2.18,Neutrophil: 5.86,LDH level: 507.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Sacituzumab/Carboplatin,SNV mutations: NF1,PBRM1,TP53,CNV alterations: CDK6(gain),MET(gain),PRKCI(gain),TERC(gain),Fusion genes: None,Splice variants: None,TMB: 11.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 59 years old,Sex: F,Height: 161.0 cm,Body weight: 60.5 kg,BMI: 23.34,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 3.9,Albumin: 3.4 g/dL,Lymphocyte: 1.48,Neutrophil: 1.71,LDH level: 212.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: EGFR,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 0.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 80 years old,Sex: M,Height: 168.0 cm,Body weight: 66.0 kg,BMI: 23.38,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 10%,WBC: 6.3,Albumin: 3.4 g/dL,Lymphocyte: 1.29,Neutrophil: 4.09,LDH level: 223.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: None,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 0.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 83 years old,Sex: M,Height: 165.0 cm,Body weight: 69.0 kg,BMI: 25.34,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 6.81,Albumin: 4.4 g/dL,Lymphocyte: 2.17,Neutrophil: 3.91,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: APC,BRIP1,ERBB3,KRAS,PIK3R1,RB1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 14.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: M,Height: 173.8 cm,Body weight: 61.0 kg,BMI: 20.19,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 40%,WBC: 5.18,Albumin: 4.1 g/dL,Lymphocyte: 1.24,Neutrophil: 2.84,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Carboplatin,SNV mutations: NOTCH1,TP53,CNV alterations: AKT2(gain),FGFR1(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 63 years old,Sex: M,Height: 166.0 cm,Body weight: 77.0 kg,BMI: 27.94,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 1%,WBC: 6.98,Albumin: 4.6 g/dL,Lymphocyte: 1.95,Neutrophil: 4.09,LDH level: 242.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Tremelimumab/Durvalumab/Pemetrexed/Carboplatin,SNV mutations: CTNNB1,TP53,CNV alterations: CDK4(gain),MDM2(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: F,Height: 145.9 cm,Body weight: 58.8 kg,BMI: 27.62,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Positive,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 40%,PD-L1 (SP263): 30%,WBC: 8.09,Albumin: 4.4 g/dL,Lymphocyte: 1.81,Neutrophil: 5.74,LDH level: 382.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Brigatinib,SNV mutations: PAX5,CNV alterations: CDK4(gain),EGFR(gain),FGF23(gain),FGF6(gain),FRS2(gain),KRAS(gain),MDM2(gain),Fusion genes: ALK,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: M,Height: 168.0 cm,Body weight: 67.0 kg,BMI: 23.74,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 7.38,Albumin: 4.8 g/dL,Lymphocyte: 2.41,Neutrophil: 3.95,LDH level: 148.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Cisplatin,SNV mutations: RB1,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 80 years old,Sex: F,Height: 147.1 cm,Body weight: 43.7 kg,BMI: 20.2,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 5%,WBC: 7.39,Albumin: 4.4 g/dL,Lymphocyte: 2.96,Neutrophil: 3.8,LDH level: 205.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: CDKN2A,KRAS,SMAD4,CNV alterations: CCND3(gain),Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 62 years old,Sex: M,Height: 165.8 cm,Body weight: 65.1 kg,BMI: 23.68,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 14.2,Albumin: 4.1 g/dL,Lymphocyte: 3.81,Neutrophil: 8.54,LDH level: 150.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: MK-5890/Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: NSD1,TP53,CNV alterations: AKT2(gain),CDKN2A(loss),CDKN2B(loss),PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 20.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: F,Height: 150.0 cm,Body weight: 53.0 kg,BMI: 23.56,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Positive,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 7.98,Albumin: 3.9 g/dL,Lymphocyte: 1.53,Neutrophil: 5.44,LDH level: 484.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: None,CNV alterations: None,Fusion genes: ROS1,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: F,Height: 151.0 cm,Body weight: 44.0 kg,BMI: 19.3,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,T790M,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 3.97,Albumin: 4.5 g/dL,Lymphocyte: 1.31,Neutrophil: 2.18,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: CDKN2A,EGFR,CNV alterations: CCND3(gain),EGFR(gain),FGFR4(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 36 years old,Sex: M,Height: 177.3 cm,Body weight: 69.1 kg,BMI: 21.98,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,ALK status: Negative,ROS1 status: 40%,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 4.52,Albumin: 4.4 g/dL,Lymphocyte: 1.28,Neutrophil: 2.47,LDH level: 228.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Lazertinib or Osimertinib,SNV mutations: CTNNB1,EGFR,GRIN2A,MUTYH,SMAD4,STAG2,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 15.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: F,Height: 151.0 cm,Body weight: 56.0 kg,BMI: 24.56,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Positive,WBC: 6.39,Albumin: 4.3 g/dL,Lymphocyte: 2.4,Neutrophil: 3.56,LDH level: 184.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Crizotinib,SNV mutations: ANKRD11,FLT3,TET1,ZRSR2,CNV alterations: None,Fusion genes: ROS1,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 81 years old,Sex: M,Height: 160.0 cm,Body weight: 64.0 kg,BMI: 25.24,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 7.26,Albumin: 3.7 g/dL,Lymphocyte: 2.65,Neutrophil: 3.6,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: MED12,RB1,TP53,CNV alterations: AKT2(gain),ALK(gain),FGF10(gain),KEAP1(loss),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 39 years old,Sex: M,Height: 176.0 cm,Body weight: 66.0 kg,BMI: 21.31,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 9.16,Albumin: 4.8 g/dL,Lymphocyte: 2.02,Neutrophil: 5.93,LDH level: 187.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Erlotinib,SNV mutations: EGFR,TP53,CNV alterations: ERBB2(gain),Fusion genes: None,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: M,Height: 167.0 cm,Body weight: 57.0 kg,BMI: 20.44,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 0%,PD-L1 (SP263): 5%,WBC: 7.99,Albumin: 4.5 g/dL,Lymphocyte: 2.14,Neutrophil: 4.94,LDH level: 164.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Lazertinib,SNV mutations: EGFR,ERRFI1,FAS,TP53,TSC1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 11.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 86 years old,Sex: M,Height: 164.2 cm,Body weight: 62.0 kg,BMI: 23.0,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,T790M,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 9.93,Albumin: 4.1 g/dL,Lymphocyte: 4.1,Neutrophil: 5.25,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: EGFR,FAT1,NCOR1,CNV alterations: MDM2(gain),MYC(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 79 years old,Sex: F,Height: 153.0 cm,Body weight: 49.0 kg,BMI: 20.93,Smoking history: Current smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 58.06,Albumin: 3.2 g/dL,Lymphocyte: 1.22,Neutrophil: 54.5,LDH level: 259.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: CIC,KRAS,CNV alterations: JAK2(loss),PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 16.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: M,Height: 171.5 cm,Body weight: 73.9 kg,BMI: 25.13,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 9.01,Albumin: 3.5 g/dL,Lymphocyte: 0.65,Neutrophil: 7.9,LDH level: 298.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: FBXW7,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: M,Height: 167.4 cm,Body weight: 64.5 kg,BMI: 23.02,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: pleomorphic carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 95%,WBC: 6.37,Albumin: 4.6 g/dL,Lymphocyte: 1.43,Neutrophil: 3.93,LDH level: 205.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Carboplatin,SNV mutations: FAT1,TP53,CNV alterations: CCND3(gain),CDK4(gain),CHEK2(gain),FGF10(gain),KIT(gain),MET(gain),MYC(gain),NRG1(gain),PDGFRA(gain),PIK3CA(gain),PIK3CB(gain),TFRC(gain),Fusion genes: None,Splice variants: None,TMB: 12.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 84 years old,Sex: M,Height: 170.8 cm,Body weight: 65.4 kg,BMI: 22.42,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 40%,PD-L1 (SP263): 30%,WBC: 12.77,Albumin: 3.8 g/dL,Lymphocyte: 1.89,Neutrophil: 9.8,LDH level: 284.0 U/L,Treatment type: Immunotherapy,Treatment regimen: MK-0482/Pembrolizumab,SNV mutations: KRAS,TET1,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 19.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: M,Height: 166.9 cm,Body weight: 60.8 kg,BMI: 21.83,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: NSCLC, NOS,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 50%,PD-L1 (SP263): 70%,WBC: 7.65,Albumin: 3.6 g/dL,Lymphocyte: 1.67,Neutrophil: 5.33,LDH level: 230.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: MK-5890/Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: EP300,CNV alterations: ATM(gain),CDKN2A(loss),CDKN2B(loss),CHEK1(gain),FGF5(gain),KRAS(gain),MDM2(gain),Fusion genes: RET,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 85 years old,Sex: M,Height: 168.0 cm,Body weight: 59.0 kg,BMI: 21.01,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 10.44,Albumin: 4.0 g/dL,Lymphocyte: 2.97,Neutrophil: 5.98,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin/M7684,SNV mutations: TP53,CNV alterations: FGF10(gain),FGF7(loss),FGF9(loss),MYCN(loss),PDGFRB(loss),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 14.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 82 years old,Sex: M,Height: 165.0 cm,Body weight: 71.0 kg,BMI: 25.84,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 12.66,Albumin: 4.6 g/dL,Lymphocyte: 2.06,Neutrophil: 8.97,LDH level: 749.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: NF1,TGFBR2,TP53,CNV alterations: AR(loss),ATM(gain),EGFR(gain),FGF7(loss),JAK2(loss),PHF6(loss),Fusion genes: None,Splice variants: None,TMB: 10.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 81 years old,Sex: F,Height: 143.8 cm,Body weight: 45.0 kg,BMI: 21.76,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 5.59,Albumin: 4.3 g/dL,Lymphocyte: 2.07,Neutrophil: 2.95,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: CDKN2A,PAX3,CNV alterations: None,Fusion genes: NRG1,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 47 years old,Sex: F,Height: 159.5 cm,Body weight: 59.1 kg,BMI: 23.23,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 4.6,Albumin: 4.7 g/dL,Lymphocyte: 1.26,Neutrophil: 2.88,LDH level: 202.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,PTEN,TP53,CNV alterations: EGFR(gain),FGF8(loss),FGFR1(gain),NRG1(gain),Fusion genes: None,Splice variants: None,TMB: 4.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: F,Height: 158.2 cm,Body weight: 44.4 kg,BMI: 17.74,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 8.18,Albumin: 3.7 g/dL,Lymphocyte: 1.87,Neutrophil: 5.63,LDH level: 130.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: ARID2,KRAS,STK11,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 7.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: F,Height: 148.7 cm,Body weight: 46.5 kg,BMI: 21.03,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 95%,WBC: 8.05,Albumin: 4.5 g/dL,Lymphocyte: 1.89,Neutrophil: 4.78,LDH level: 230.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Bevacizumab/Nivolumab or Placebo/Carboplatin/Paclitaxel,SNV mutations: TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 88 years old,Sex: M,Height: 167.0 cm,Body weight: 64.0 kg,BMI: 23.01,Smoking history: Former smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 9.04,Albumin: 3.8 g/dL,Lymphocyte: 2.47,Neutrophil: 5.19,LDH level: 265.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: TP53,CNV alterations: MDM4(gain),PTEN(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 61 years old,Sex: M,Height: 168.0 cm,Body weight: 64.8 kg,BMI: 22.96,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 80%,PD-L1 (SP263): 80%,WBC: 7.33,Albumin: 4.1 g/dL,Lymphocyte: 2.37,Neutrophil: 4.3,LDH level: 162.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Osimertinib or Placebo/Gefitinib or Placebo,SNV mutations: None,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 73 years old,Sex: F,Height: 157.0 cm,Body weight: 58.0 kg,BMI: 23.62,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 7.86,Albumin: 4.3 g/dL,Lymphocyte: 1.4,Neutrophil: 5.43,LDH level: 194.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: CDKN2A,GNAS,MED12,TP53,CNV alterations: ERBB2(gain),FGFR1(gain),Fusion genes: None,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 76 years old,Sex: F,Height: 160.0 cm,Body weight: 48.0 kg,BMI: 18.75,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 95%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: DNMT3A,EGFR,SMAD4,TP53,TSC1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 7.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: M,Height: 170.2 cm,Body weight: 67.3 kg,BMI: 23.23,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 30%,PD-L1 (SP263): 10%,WBC: 9.31,Albumin: 4.8 g/dL,Lymphocyte: 2.0,Neutrophil: 6.12,LDH level: 241.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: CDK12,EGFR,TP53,CNV alterations: EGFR(gain),MET(gain),Fusion genes: None,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 53 years old,Sex: M,Height: 182.0 cm,Body weight: 64.0 kg,BMI: 19.32,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 2%,PD-L1 (SP263): 1%,WBC: 8.51,Albumin: 4.4 g/dL,Lymphocyte: 1.96,Neutrophil: 5.4,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: ARID2,ERRFI1,TP53,CNV alterations: FGF23(gain),FGF6(gain),FGF8(loss),JAK2(loss),KRAS(gain),PTEN(loss),RICTOR(gain),RPS6KB1(gain),Fusion genes: FGFR3,Splice variants: None,TMB: 19.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: F,Height: 150.0 cm,Body weight: 49.0 kg,BMI: 21.44,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 14.44,Albumin: 3.2 g/dL,Lymphocyte: 1.66,Neutrophil: 11.03,LDH level: 176.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: None,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 90 years old,Sex: M,Height: 160.0 cm,Body weight: 48.0 kg,BMI: 18.75,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 10%,WBC: 6.54,Albumin: 3.5 g/dL,Lymphocyte: 1.52,Neutrophil: 4.37,LDH level: 191.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: CTNNB1,PIK3CA,RASA1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 81 years old,Sex: M,Height: 163.5 cm,Body weight: 54.0 kg,BMI: 20.2,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: >50%,PD-L1 (SP263): 80%,WBC: 5.63,Albumin: 3.5 g/dL,Lymphocyte: 0.81,Neutrophil: 4.0,LDH level: 268.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Vinorelbine,SNV mutations: KEAP1,PTEN,TP53,CNV alterations: CDK6(gain),FGF23(gain),FGF6(gain),FGFR1(gain),KRAS(gain),PIK3CA(gain),PIK3CB(gain),Fusion genes: None,Splice variants: None,TMB: 13.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: M,Height: 165.0 cm,Body weight: 64.0 kg,BMI: 23.52,Smoking history: Former smoker,Cancer stage: Mixed,Histology: Adenocarcinoma or Adenosquamous carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,PD-L1 group: >50%,PD-L1 (22C3): 90%,PD-L1 (SP263): 100%,WBC: 17.22,Albumin: 3.9 g/dL,Lymphocyte: 1.85,Neutrophil: 13.52,LDH level: 132.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: KRAS,RBM10,CNV alterations: MDM2(gain),PIK3CB(gain),Fusion genes: None,Splice variants: None,TMB: 6.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 50 years old,Sex: F,Height: 160.1 cm,Body weight: 76.0 kg,BMI: 29.65,Smoking history: Never smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 5%,WBC: 9.9,Albumin: 4.4 g/dL,Lymphocyte: 1.18,Neutrophil: 8.07,LDH level: 165.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: BRCA1,KDM6A,CNV alterations: ALK(gain),FGF1(gain),MYCN(gain),RPS6KB1(gain),Fusion genes: None,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: M,Height: 173.0 cm,Body weight: 74.0 kg,BMI: 24.73,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 40%,WBC: 6.73,Albumin: 4.0 g/dL,Lymphocyte: 1.27,Neutrophil: 4.52,LDH level: 171.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: RB1,TP53,CNV alterations: None,Fusion genes: RPS6KB1,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 72 years old,Sex: F,Height: 154.0 cm,Body weight: 59.0 kg,BMI: 24.88,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 0%,PD-L1 (SP263): 10%,WBC: 4.81,Albumin: 4.9 g/dL,Lymphocyte: 1.54,Neutrophil: 2.93,LDH level: 151.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Osimertinib,SNV mutations: EGFR,PIK3CA,RB1,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 63 years old,Sex: M,Height: 171.4 cm,Body weight: 92.7 kg,BMI: 31.55,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 7.2,Albumin: 3.9 g/dL,Lymphocyte: 1.57,Neutrophil: 4.97,LDH level: 409.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: DNMT3A,CNV alterations: AR(gain),Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 35 years old,Sex: M,Height: 172.1 cm,Body weight: 71.9 kg,BMI: 24.28,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Positive,ROS1 status: 30%,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 7.6,Albumin: 4.8 g/dL,Lymphocyte: 1.69,Neutrophil: 4.82,LDH level: 240.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Alectinib,SNV mutations: ASXL2,CNV alterations: FGF14(gain),Fusion genes: ALK,Splice variants: None,TMB: 8.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 69 years old,Sex: M,Height: 160.6 cm,Body weight: 48.7 kg,BMI: 18.88,Smoking history: Former smoker,Cancer stage: SCLC,Histology: small cell carcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,WBC: 7.19,Albumin: 3.7 g/dL,Lymphocyte: 1.34,Neutrophil: 5.27,LDH level: 675.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Atezolizumab/Etoposide/Carboplatin,SNV mutations: TP53,ZFHX3,CNV alterations: AR(loss),BCL2L1(gain),BRCA1(gain),ERBB2(gain),ERBB3(gain),FGF10(gain),FGF14(loss),FGF6(loss),FGFR3(loss),GLI1(gain),JAK2(loss),JUN(gain),KRAS(loss),LAMP1(loss),MYCL(gain),PIK3CA(gain),PIK3CB(gain),RB1(loss),RICTOR(gain),RPS6KB1(gain),TFRC(gain),Fusion genes: None,Splice variants: None,TMB: 7.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 36 years old,Sex: M,Height: 174.0 cm,Body weight: 64.5 kg,BMI: 21.3,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 0%,PD-L1 (SP263): <5%,WBC: 13.4,Albumin: 3.6 g/dL,Lymphocyte: 0.99,Neutrophil: 11.23,LDH level: 270.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Gemcitabine/Carboplatin,SNV mutations: None,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: M,Height: 162.9 cm,Body weight: 71.4 kg,BMI: 26.91,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 4.6,Albumin: 4.4 g/dL,Lymphocyte: 1.2,Neutrophil: 2.88,LDH level: 165.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: BIRC3,KRAS,MSH3,NKX2-1,SF3B1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 3.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: M,Height: 167.0 cm,Body weight: 61.0 kg,BMI: 21.85,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 75%,WBC: 8.6,Albumin: 3.7 g/dL,Lymphocyte: 1.9,Neutrophil: 5.82,LDH level: 186.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: KRAS,SMARCA4,TP53,CNV alterations: MYC(gain),Fusion genes: None,Splice variants: None,TMB: 9.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 89 years old,Sex: M,Height: 165.0 cm,Body weight: 62.0 kg,BMI: 22.77,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,WBC: 7.27,Albumin: 4.3 g/dL,Lymphocyte: 1.98,Neutrophil: 4.63,LDH level: 169.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab/MK1308,SNV mutations: MLLT3,MSH6,NF1,PTEN,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: M,Height: 172.0 cm,Body weight: 80.1 kg,BMI: 27.08,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,T790M,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): <1%,PD-L1 (SP263): 0%,WBC: 8.44,Albumin: 4.9 g/dL,Lymphocyte: 1.72,Neutrophil: 5.88,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: EGFR,NF2,SF3B1,TET2,CNV alterations: EGFR(gain),Fusion genes: None,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: M,Height: 178.0 cm,Body weight: 80.0 kg,BMI: 25.25,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 1%,WBC: 6.71,Albumin: 4.4 g/dL,Lymphocyte: 1.9,Neutrophil: 4.16,LDH level: 240.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: M,Height: 168.0 cm,Body weight: 70.0 kg,BMI: 24.8,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 5.13,Albumin: 4.8 g/dL,Lymphocyte: 1.59,Neutrophil: 3.06,LDH level: 181.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: EGFR,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: M,Height: 175.6 cm,Body weight: 74.0 kg,BMI: 24.0,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: 80%,PD-L1 group: >50%,PD-L1 (SP263): 95%,WBC: 4.26,Albumin: 4.3 g/dL,Lymphocyte: 1.32,Neutrophil: 2.28,LDH level: 233.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: DNMT3A,TP53,CNV alterations: ETS1(gain),FGFR1(gain),KAT6A(gain),Fusion genes: None,Splice variants: None,TMB: 3.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 49 years old,Sex: M,Height: 171.0 cm,Body weight: 54.0 kg,BMI: 18.4,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,WBC: 5.4,Albumin: 4.42 g/dL,Lymphocyte: 1.28,Neutrophil: 3.45,LDH level: 246.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: BRAF,RAF1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: F,Height: 162.5 cm,Body weight: 60.4 kg,BMI: 22.87,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 0%,WBC: 5.82,Albumin: 4.3 g/dL,Lymphocyte: 0.89,Neutrophil: 4.46,LDH level: 192.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,TP53,CNV alterations: CCNE1(gain),EGFR(gain),FGF10(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 89 years old,Sex: M,Height: 152.0 cm,Body weight: 69.0 kg,BMI: 30.02,Smoking history: Current smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 40%,PD-L1 (SP263): 50%,WBC: 11.33,Albumin: 3.0 g/dL,Lymphocyte: 2.4,Neutrophil: 8.13,LDH level: 250.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: BRCA2,TP53,CNV alterations: PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 11.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: F,Height: 160.2 cm,Body weight: 59.9 kg,BMI: 23.34,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: L858R,ALK status: Negative,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Erlotinib,SNV mutations: CTNNB1,EGFR,PTEN,TP53,CNV alterations: ALK(gain),CCND3(gain),CDK6(gain),CDKN2A(loss),CDKN2B(loss),EGFR(gain),FGFR1(gain),MET(gain),PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 8.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: F,Height: 153.0 cm,Body weight: 54.0 kg,BMI: 22.91,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Sarcomatoid carcinoma,Liver metastasis: No,Brain metastasis: No,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 6.97,Albumin: 4.0 g/dL,Lymphocyte: 1.4,Neutrophil: 5.06,LDH level: 309.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: CBL,CTNNB1,NF1,SF3B1,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 3.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 61 years old,Sex: M,Height: 174.4 cm,Body weight: 69.4 kg,BMI: 22.82,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 75%,WBC: 8.27,Albumin: 3.5 g/dL,Lymphocyte: 1.21,Neutrophil: 5.97,LDH level: 122.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: BRAF,ERBB2,HOXB13,KEAP1,MGA,SDHC,TP53,CNV alterations: AURKA(gain),CCND3(gain),Fusion genes: None,Splice variants: None,TMB: 32.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: F,Height: 159.0 cm,Body weight: 74.5 kg,BMI: 29.47,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,PD-L1 group: 0%,PD-L1 (SP263): <1%,WBC: 13.91,Albumin: 4.1 g/dL,Lymphocyte: 3.42,Neutrophil: 9.14,LDH level: 239.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,PIK3CA,CNV alterations: KRAS(gain),Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 48 years old,Sex: F,Height: 169.0 cm,Body weight: 59.0 kg,BMI: 20.66,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,ALK status: Positive,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 1%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: MAP3K1,CNV alterations: EGFR(gain),FGF1(gain),PDGFRB(gain),Fusion genes: ALK,Splice variants: None,TMB: 14.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 76 years old,Sex: F,Height: 158.9 cm,Body weight: 50.1 kg,BMI: 19.84,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E20ins,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Immunotherapy,Treatment regimen: Atezolizumab,SNV mutations: ASXL1,EGFR,CNV alterations: EGFR(gain),Fusion genes: None,Splice variants: None,TMB: 9.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 87 years old,Sex: M,Height: 166.6 cm,Body weight: 69.6 kg,BMI: 25.08,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 8.49,Albumin: 3.8 g/dL,Lymphocyte: 1.49,Neutrophil: 5.5,LDH level: 294.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: BRAF,CREBBP,PTEN,STK11,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 10.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 57 years old,Sex: F,Height: 162.0 cm,Body weight: 52.0 kg,BMI: 19.81,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 10%,WBC: 7.9,Albumin: 4.0 g/dL,Lymphocyte: 1.46,Neutrophil: 5.79,LDH level: 162.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: SMARCA4,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 25.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 76 years old,Sex: M,Height: 165.0 cm,Body weight: 72.0 kg,BMI: 26.45,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,T790M,ALK status: Negative,ROS1 status: Negative,WBC: 5.33,Albumin: 4.0 g/dL,Lymphocyte: 1.78,Neutrophil: 2.99,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Paclitaxel/Carboplatin,SNV mutations: None,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: M,Height: 166.9 cm,Body weight: 64.0 kg,BMI: 22.98,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: poorly differentiated carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 30%,PD-L1 (SP263): 20%,WBC: 8.03,Albumin: 3.6 g/dL,Lymphocyte: 1.77,Neutrophil: 5.22,LDH level: 205.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Paclitaxel/Carboplatin/Durvalumab,SNV mutations: TP53,CNV alterations: EGFR(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 49 years old,Sex: F,Height: 161.0 cm,Body weight: 79.2 kg,BMI: 30.55,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 0%,PD-L1 (SP263): 1%,WBC: 7.69,Albumin: 4.7 g/dL,Lymphocyte: 2.15,Neutrophil: 4.95,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: KRAS,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 82 years old,Sex: F,Height: 149.4 cm,Body weight: 54.7 kg,BMI: 24.51,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E20ins,ALK status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 8.62,Albumin: 3.8 g/dL,Lymphocyte: 2.77,Neutrophil: 5.11,LDH level: 230.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: BCOR,EGFR,TERT,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 74 years old,Sex: M,Height: 168.0 cm,Body weight: 74.0 kg,BMI: 26.22,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 1~49%,WBC: 9.0,Albumin: 4.4 g/dL,Lymphocyte: 2.52,Neutrophil: 5.82,LDH level: 357.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: KDM6A,KRAS,PIK3CA,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 63 years old,Sex: M,Height: 169.0 cm,Body weight: 62.0 kg,BMI: 21.75,Smoking history: Current smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 11.31,Albumin: 4.4 g/dL,Lymphocyte: 2.41,Neutrophil: 7.2,LDH level: 259.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin,SNV mutations: TP53,CNV alterations: ALK(gain),CCND3(gain),ERCC2(gain),FGFR4(gain),MYC(gain),MYCN(gain),PIK3CB(gain),Fusion genes: None,Splice variants: None,TMB: 9.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: M,Height: 167.0 cm,Body weight: 62.0 kg,BMI: 22.15,Smoking history: Former smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 8.92,Albumin: 4.6 g/dL,Lymphocyte: 1.85,Neutrophil: 6.18,LDH level: 257.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Paclitaxel/Carboplatin/MK4830,SNV mutations: APC,NOTCH3,PTPRD,SUZ12,TP53,CNV alterations: BRCA1(gain),CCND1(gain),CDKN2A(loss),CDKN2B(loss),ERBB2(gain),FGF19(gain),FGF3(gain),FGF4(gain),MDM4(gain),MYC(gain),PIK3CA(gain),PIK3CB(gain),RET(gain),TFRC(gain),Fusion genes: None,Splice variants: None,TMB: 11.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 54 years old,Sex: M,Height: 172.0 cm,Body weight: 68.0 kg,BMI: 22.99,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 90%,PD-L1 (SP263): 90%,WBC: 7.59,Albumin: 3.8 g/dL,Lymphocyte: 0.8,Neutrophil: 5.8,LDH level: 236.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab/MK4830,SNV mutations: BRAF,SETD2,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 78 years old,Sex: M,Height: 166.0 cm,Body weight: 48.0 kg,BMI: 17.55,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 7.09,Albumin: 2.5 g/dL,Lymphocyte: 1.35,Neutrophil: 4.17,LDH level: 161.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: None,CNV alterations: AR(loss),ATM(gain),BRCA2(gain),CDK6(gain),EGFR(gain),FGF14(loss),FGFR1(gain),FGFR4(gain),JAK2(loss),MET(gain),MYC(gain),NRG1(loss),PIK3CA(loss),Fusion genes: RET,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 52 years old,Sex: M,Height: 174.2 cm,Body weight: 70.0 kg,BMI: 23.07,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 10.96,Albumin: 4.5 g/dL,Lymphocyte: 2.28,Neutrophil: 6.65,LDH level: 333.0 U/L,Treatment type: Chemotherapy + Targeted Therapy,Treatment regimen: Bevacizumab/Paclitaxel/Carboplatin,SNV mutations: APC,PIK3CA,PTEN,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 72 years old,Sex: M,Height: 171.2 cm,Body weight: 69.6 kg,BMI: 23.75,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,PD-L1 group: >50%,PD-L1 (22C3): 30%,PD-L1 (SP263): 1%,WBC: 12.26,Albumin: 4.5 g/dL,Lymphocyte: 3.42,Neutrophil: 7.51,LDH level: 181.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Atezolizumab/Tiragolumab/Paclitaxel/Carboplatin,SNV mutations: CDKN2A,CHD2,MED12,PTPRD,SPEN,TGFBR1,TP53,CNV alterations: FGFR1(gain),PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: M,Height: 170.0 cm,Body weight: 60.9 kg,BMI: 21.07,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: poorly differentiated adenocarcinoma or large cell carcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,PD-L1 (SP263): 1%,WBC: 7.44,Albumin: 4.2 g/dL,Lymphocyte: 2.21,Neutrophil: 4.32,LDH level: 174.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: FANCD2,IRS2,MITF,TP53,CNV alterations: AKT2(gain),CCNE1(gain),EGFR(gain),ERCC1(gain),ERCC2(gain),MET(gain),Fusion genes: None,Splice variants: None,TMB: 26.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 69 years old,Sex: M,Height: 171.6 cm,Body weight: 62.6 kg,BMI: 21.26,Smoking history: Former smoker,Cancer stage: SCLC,Histology: small cell carcinoma,Liver metastasis: Yes,Brain metastasis: Yes,WBC: 4.49,Albumin: 3.9 g/dL,Lymphocyte: 1.03,Neutrophil: 2.85,LDH level: 290.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Atezolizumab/Etoposide/Carboplatin,SNV mutations: None,CNV alterations: AKT2(gain),Fusion genes: None,Splice variants: None,TMB: 10.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: F,Height: 153.0 cm,Body weight: 57.0 kg,BMI: 24.35,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,T790M,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 8.07,Albumin: 3.8 g/dL,Lymphocyte: 0.37,Neutrophil: 7.04,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: CTNNB1,EGFR,NF1,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 85 years old,Sex: M,Height: 170.3 cm,Body weight: 60.5 kg,BMI: 20.86,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 4.88,Albumin: 3.8 g/dL,Lymphocyte: 1.13,Neutrophil: 3.05,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: EGFR,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: F,Height: 162.0 cm,Body weight: 66.3 kg,BMI: 25.26,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: sarcomatoid carcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 100%,WBC: 10.87,Albumin: 3.5 g/dL,Lymphocyte: 1.37,Neutrophil: 6.52,LDH level: 156.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: NBN,CNV alterations: RICTOR(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 57 years old,Sex: F,Height: 154.2 cm,Body weight: 52.5 kg,BMI: 22.08,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 6.89,Albumin: 5.0 g/dL,Lymphocyte: 1.72,Neutrophil: 4.8,LDH level: 162.0 U/L,Treatment type: Chemotherapy + Targeted Therapy,Treatment regimen: Lazertinib/Pemetrexed,SNV mutations: ATM,EGFR,CNV alterations: CCNE1(gain),CDK6(gain),EGFR(gain),MYCL(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 63 years old,Sex: M,Height: 170.7 cm,Body weight: 73.0 kg,BMI: 25.05,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 4.88,Albumin: 3.8 g/dL,Lymphocyte: 1.76,Neutrophil: 2.3,LDH level: 184.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Cisplatin,SNV mutations: TP53,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 62 years old,Sex: M,Height: 157.0 cm,Body weight: 55.0 kg,BMI: 22.31,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,PD-L1 (SP263): 0%,WBC: 6.39,Albumin: 4.2 g/dL,Lymphocyte: 1.9,Neutrophil: 3.67,LDH level: 245.0 U/L,Treatment type: Immunotherapy + Chemotherapy + Targeted Therapy,Treatment regimen: Pembrolizumab/Sacituzumab/Carboplatin,SNV mutations: GNAS,PTEN,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 10.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: M,Height: 167.5 cm,Body weight: 65.1 kg,BMI: 23.2,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Positive,PD-L1 group: 1~49%,PD-L1 (SP263): 5%,WBC: 12.14,Albumin: 2.9 g/dL,Lymphocyte: 1.65,Neutrophil: 9.21,LDH level: 926.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Crizotinib,SNV mutations: STK11,TP53,CNV alterations: None,Fusion genes: ROS1,Splice variants: None,TMB: 5.5 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: F,Height: 164.0 cm,Body weight: 66.0 kg,BMI: 24.54,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 1%,WBC: 5.56,Albumin: 4.4 g/dL,Lymphocyte: 2.14,Neutrophil: 2.68,LDH level: 190.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab/MK1308,SNV mutations: KRAS,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 84 years old,Sex: M,Height: 176.0 cm,Body weight: 60.0 kg,BMI: 19.3,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,WBC: 12.35,Albumin: 3.9 g/dL,Lymphocyte: 1.76,Neutrophil: 8.79,LDH level: 217.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: FANCA,FGFR4,KRAS,STK11,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: M,Height: 169.4 cm,Body weight: 69.1 kg,BMI: 24.08,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 20%,PD-L1 (SP263): 20%,WBC: 6.93,Albumin: 4.6 g/dL,Lymphocyte: 2.21,Neutrophil: 4.21,LDH level: 1156.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,PIK3CA,TP53,CNV alterations: CDK4(gain),FGF19(gain),FGF3(gain),MYC(gain),YAP1(gain),Fusion genes: None,Splice variants: None,TMB: 2.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 68 years old,Sex: M,Height: 168.5 cm,Body weight: 68.8 kg,BMI: 24.23,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 1%,WBC: 9.34,Albumin: 4.0 g/dL,Lymphocyte: 1.38,Neutrophil: 7.04,LDH level: 244.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: EGFR,CNV alterations: None,Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: M,Height: 165.1 cm,Body weight: 60.3 kg,BMI: 22.12,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: 10%,PD-L1 group: 1~49%,PD-L1 (SP263): 10%,WBC: 21.36,Albumin: 2.8 g/dL,Lymphocyte: 1.63,Neutrophil: 18.2,LDH level: 191.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: CTNNB1,SMARCA4,STK11,TP53,CNV alterations: CDKN2A(loss),CDKN2B(loss),FGF10(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 9.4 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 72 years old,Sex: M,Height: 166.0 cm,Body weight: 68.0 kg,BMI: 24.68,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,WBC: 9.62,Albumin: 4.1 g/dL,Lymphocyte: 1.91,Neutrophil: 6.8,LDH level: 473.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: BRCA1,EGFR,SETD2,TP53,XRCC2,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 6.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: F,Height: 156.0 cm,Body weight: 55.0 kg,BMI: 22.52,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 50%,PD-L1 (SP263): 70%,WBC: 6.24,Albumin: 4.3 g/dL,Lymphocyte: 2.38,Neutrophil: 2.97,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: ERBB2,PIK3CA,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 52 years old,Sex: F,Height: 167.5 cm,Body weight: 48.6 kg,BMI: 17.32,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 100%,PD-L1 (SP263): 100%,WBC: 6.49,Albumin: 4.3 g/dL,Lymphocyte: 1.8,Neutrophil: 3.53,LDH level: 170.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Carboplatin,SNV mutations: KRAS,TP53,CNV alterations: MET(gain),Fusion genes: None,Splice variants: None,TMB: 11.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: F,Height: 143.0 cm,Body weight: 45.0 kg,BMI: 22.01,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 95%,WBC: 4.69,Albumin: 4.3 g/dL,Lymphocyte: 1.2,Neutrophil: 2.56,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: EGFR,TGFBR1,CNV alterations: ERBB2(gain),FGF14(gain),Fusion genes: None,Splice variants: None,TMB: 7.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 81 years old,Sex: M,Height: 157.5 cm,Body weight: 51.3 kg,BMI: 20.68,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 7.65,Albumin: 3.5 g/dL,Lymphocyte: 1.81,Neutrophil: 4.38,LDH level: 212.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: MK-5890/Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 4.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: F,Height: 158.0 cm,Body weight: 62.0 kg,BMI: 24.84,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 70%,WBC: 11.91,Albumin: 3.3 g/dL,Lymphocyte: 5.65,Neutrophil: 4.98,LDH level: 205.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: KRAS,TP53,CNV alterations: CDKN2A(loss),CDKN2B(loss),FGF23(gain),FGF6(gain),Fusion genes: None,Splice variants: None,TMB: 1.6 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 67 years old,Sex: F,Height: 155.5 cm,Body weight: 65.0 kg,BMI: 26.88,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,WBC: 5.74,Albumin: 4.1 g/dL,Lymphocyte: 2.69,Neutrophil: 2.53,LDH level: 203.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib -> Gefitinib,SNV mutations: EGFR,PIK3CA,TP53,CNV alterations: PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 54 years old,Sex: M,Height: 176.9 cm,Body weight: 77.0 kg,BMI: 24.61,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 80%,WBC: 5.78,Albumin: 4.5 g/dL,Lymphocyte: 1.67,Neutrophil: 3.53,LDH level: 158.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Lazertinib,SNV mutations: EGFR,PBRM1,TP53,CNV alterations: CCND1(gain),CDK4(gain),EGFR(gain),ERBB2(gain),ERBB3(gain),ETV1(gain),FGF3(gain),FGF4(gain),FGF8(loss),FGFR3(loss),FGFR4(gain),MET(gain),MYC(gain),PAK1(gain),PIK3CA(gain),RAC1(gain),TFRC(gain),Fusion genes: None,Splice variants: None,TMB: 10.3 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 70 years old,Sex: F,Height: 150.0 cm,Body weight: 53.0 kg,BMI: 23.56,Smoking history: Never smoker,Cancer stage: SqCC,Histology: Squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 2%,PD-L1 (SP263): 50%,WBC: 14.06,Albumin: 3.1 g/dL,Lymphocyte: 1.62,Neutrophil: 10.69,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Paclitaxel/Cisplatin,SNV mutations: B2M,PIK3CA,CNV alterations: PIK3CB(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 65 years old,Sex: F,Height: 152.0 cm,Body weight: 43.0 kg,BMI: 18.61,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 50%,WBC: 9.63,Albumin: 3.9 g/dL,Lymphocyte: 1.35,Neutrophil: 7.79,LDH level: 230.0 U/L,Treatment type: Immunotherapy,Treatment regimen: Pembrolizumab,SNV mutations: MET,CNV alterations: CDK4(gain),FRS2(gain),MDM2(gain),Fusion genes: None,Splice variants: MET,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: M,Height: 176.1 cm,Body weight: 70.1 kg,BMI: 22.6,Smoking history: Current smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: 30%,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 5.83,Albumin: 3.2 g/dL,Lymphocyte: 1.09,Neutrophil: 4.17,LDH level: 181.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Nivolumab/Ipilimumab/Pemetrexed/Carboplatin,SNV mutations: ARID2,NKX2-1,TP53,CNV alterations: ALK(gain),CDK6(gain),FGF10(gain),MYC(gain),RICTOR(gain),Fusion genes: None,Splice variants: None,TMB: 8.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: M,Height: 162.0 cm,Body weight: 66.0 kg,BMI: 25.06,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 8.19,Albumin: 4.8 g/dL,Lymphocyte: 2.0,Neutrophil: 5.58,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: KRAS,TP53,CNV alterations: None,Fusion genes: None,Splice variants: None,TMB: 3.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 74 years old,Sex: M,Height: 171.7 cm,Body weight: 64.0 kg,BMI: 21.71,Smoking history: Current smoker,Cancer stage: SqCC,Histology: squamous cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 20%,PD-L1 (SP263): 10%,WBC: 6.78,Albumin: 4.8 g/dL,Lymphocyte: 1.75,Neutrophil: 4.33,LDH level: Unknown U/L,Treatment type: Immunotherapy,Treatment regimen: MK-0482/Pembrolizumab,SNV mutations: CDKN2A,NOTCH2,TP53,CNV alterations: KDM5A(gain),KRAS(gain),PIK3CA(gain),SOX2(gain),TP63(gain),Fusion genes: None,Splice variants: None,TMB: 10.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 77 years old,Sex: F,Height: 149.6 cm,Body weight: 62.4 kg,BMI: 27.88,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: L858R,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 7.69,Albumin: 4.7 g/dL,Lymphocyte: 3.09,Neutrophil: 3.72,LDH level: 136.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Gefitinib,SNV mutations: ASXL1,EGFR,RBM10,TET2,CNV alterations: CDK4(gain),FRS2(gain),MDM2(gain),Fusion genes: None,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 58 years old,Sex: F,Height: 154.2 cm,Body weight: 51.2 kg,BMI: 21.53,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: poorly differentiated carcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 50%,WBC: 16.23,Albumin: 2.8 g/dL,Lymphocyte: 2.08,Neutrophil: 12.44,LDH level: 283.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: KRAS,TP53,CNV alterations: SDHA(gain),Fusion genes: None,Splice variants: None,TMB: 7.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: M,Height: 165.0 cm,Body weight: 78.0 kg,BMI: 28.83,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): <1%,PD-L1 (SP263): 1%,WBC: 5.0,Albumin: 3.8 g/dL,Lymphocyte: 1.74,Neutrophil: 2.69,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: RBM10,CNV alterations: None,Fusion genes: NRG1,Splice variants: None,TMB: 3.2 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 62 years old,Sex: M,Height: 172.0 cm,Body weight: 41.5 kg,BMI: 14.03,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,PD-L1 group: >50%,PD-L1 (SP263): 60%,WBC: 16.5,Albumin: 3.5 g/dL,Lymphocyte: 1.72,Neutrophil: 13.93,LDH level: 290.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: BCOR,CDKN2A,CREBBP,NF2,SMARCA4,TGFBR1,TP53,CNV alterations: EGFR(gain),MET(gain),Fusion genes: None,Splice variants: None,TMB: 7.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: F,Height: 154.5 cm,Body weight: 57.0 kg,BMI: 23.88,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,ROS1 status: 20%,PD-L1 group: 0%,PD-L1 (SP263): 0%,WBC: 12.26,Albumin: 4.6 g/dL,Lymphocyte: 1.35,Neutrophil: 10.64,LDH level: 249.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: CTNNB1,ERBB2,CNV alterations: BRCA1(gain),ERBB2(gain),FOXA1(gain),KRAS(gain),MYC(gain),NKX2-1(gain),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 64 years old,Sex: F,Height: 162.0 cm,Body weight: 61.0 kg,BMI: 23.24,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: E19del,PD-L1 group: 1~49%,PD-L1 (22C3): 5%,WBC: 10.63,Albumin: 3.5 g/dL,Lymphocyte: 1.2,Neutrophil: 8.8,LDH level: 201.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,TP53,CNV alterations: BRAF(gain),CDK6(gain),EGFR(gain),FGF10(gain),JAK2(loss),MET(gain),NRG1(loss),Fusion genes: None,Splice variants: None,TMB: 4.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 61 years old,Sex: M,Height: 174.1 cm,Body weight: 67.9 kg,BMI: 22.4,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Positive,PD-L1 group: >50%,PD-L1 (22C3): 95%,WBC: 11.75,Albumin: 4.6 g/dL,Lymphocyte: 2.07,Neutrophil: 8.52,LDH level: 177.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Nivolumab/Pemetrexed/Carboplatin,SNV mutations: ABL1,CTNNB1,TET1,CNV alterations: None,Fusion genes: ROS1,Splice variants: None,TMB: 3.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 60 years old,Sex: F,Height: 153.8 cm,Body weight: 60.1 kg,BMI: 25.41,Smoking history: Never smoker,Cancer stage: Mixed,Histology: adenosquamous carcinoma,Liver metastasis: Yes,Brain metastasis: Yes,EGFR status: E19del,ALK status: Negative,PD-L1 group: >50%,PD-L1 (22C3): 70%,PD-L1 (SP263): 50%,Albumin: Unknown g/dL,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: EGFR,PPP2R1A,TP53,CNV alterations: AKT2(gain),CCNE1(gain),CDK4(gain),ERBB3(gain),MDM2(gain),MDM4(gain),MYC(gain),PIK3CA(gain),RET(gain),Fusion genes: None,Splice variants: None,TMB: 7.9 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "A",
+    "answer": "CR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 69 years old,Sex: M,Height: 164.0 cm,Body weight: 66.0 kg,BMI: 24.54,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: E19del,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 6.71,Albumin: 4.5 g/dL,Lymphocyte: 1.08,Neutrophil: 4.93,LDH level: Unknown U/L,Treatment type: Targeted Therapy,Treatment regimen: Afatinib,SNV mutations: APC,CTNNB1,EGFR,CNV alterations: CCNE1(gain),MET(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 74 years old,Sex: M,Height: 175.5 cm,Body weight: 78.5 kg,BMI: 25.49,Smoking history: Current smoker,Cancer stage: SCLC,Histology: small cell carcinoma,Liver metastasis: No,Brain metastasis: Yes,WBC: 7.71,Albumin: 4.6 g/dL,Lymphocyte: 1.72,Neutrophil: 5.61,LDH level: 260.0 U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Atezolizumab/Etoposide/Carboplatin,SNV mutations: KMT2A,RB1,TP53,CNV alterations: MET(gain),PIK3CA(gain),PIK3CB(gain),Fusion genes: None,Splice variants: None,TMB: 15.7 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: F,Height: 147.0 cm,Body weight: 49.7 kg,BMI: 23.0,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: L858R,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (SP263): 1%,WBC: 5.09,Albumin: 3.4 g/dL,Lymphocyte: 1.12,Neutrophil: 3.55,LDH level: 202.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Lazertinib,SNV mutations: EGFR,CNV alterations: ARFRP1(gain),ARID1A(loss),BCOR(loss),CARD11(gain),CCND3(gain),CDKN2A(loss),CDKN2B(loss),DICER1(loss),EGFR(gain),ERBB2(gain),ETV1(gain),FRS2(gain),IRF4(gain),KDM6A(loss),KRAS(gain),MDM2(gain),NKX3-1(loss),PPP2R2A(loss),RAC1(gain),RAD51B(loss),RECQL4(gain),SDHA(gain),VEGFA(gain),ZRSR2(loss),Fusion genes: None,Splice variants: None,TMB: 0.8 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "B",
+    "answer": "PR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 71 years old,Sex: F,Height: 153.1 cm,Body weight: 58.8 kg,BMI: 25.09,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Positive,ROS1 status: 60%,PD-L1 group: >50%,PD-L1 (22C3): 60%,PD-L1 (SP263): 40%,WBC: 8.25,Albumin: 4.6 g/dL,Lymphocyte: 2.97,Neutrophil: 4.57,LDH level: 455.0 U/L,Treatment type: Targeted Therapy,Treatment regimen: Alectinib,SNV mutations: TP53,CNV alterations: KDM5A(gain),PIK3CA(gain),Fusion genes: ALK,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "A",
+    "answer": "CR"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 63 years old,Sex: M,Height: 166.0 cm,Body weight: 69.0 kg,BMI: 25.04,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: Wild,ALK status: Negative,ROS1 status: Negative,PD-L1 group: 0%,PD-L1 (22C3): 0%,PD-L1 (SP263): 0%,WBC: 6.63,Albumin: 4.2 g/dL,Lymphocyte: 1.07,Neutrophil: 5.07,LDH level: 164.0 U/L,Treatment type: Chemotherapy,Treatment regimen: Paclitaxel/Carboplatin,SNV mutations: STK11,TP53,CNV alterations: PIK3CA(gain),Fusion genes: None,Splice variants: None,TMB: 11.0 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: F,Height: 156.8 cm,Body weight: 49.9 kg,BMI: 20.3,Smoking history: Never smoker,Cancer stage: Non SqCC,Histology: adenocarcinoma,Liver metastasis: No,Brain metastasis: Yes,EGFR status: E20ins,ALK status: Negative,ROS1 status: Negative,WBC: 7.52,Albumin: 4.4 g/dL,Lymphocyte: 1.14,Neutrophil: 5.65,LDH level: Unknown U/L,Treatment type: Chemotherapy,Treatment regimen: Pemetrexed/Cisplatin,SNV mutations: EGFR,KMT2A,TP53,CNV alterations: CDK4(gain),CHEK2(gain),EGFR(gain),ERBB2(gain),ERBB3(gain),ERCC1(gain),FGFR3(gain),PIK3CB(gain),Fusion genes: None,Splice variants: None\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "C",
+    "answer": "SD"
+  },
+  {
+    "question": "Patient Clinical Profile:\nAge: 66 years old,Sex: M,Height: 171.0 cm,Body weight: 75.0 kg,BMI: 25.66,Smoking history: Former smoker,Cancer stage: Non SqCC,Histology: Adenocarcinoma or Large cell carcinoma,Liver metastasis: No,Brain metastasis: No,EGFR status: Wild,ALK status: Negative,PD-L1 group: 1~49%,PD-L1 (22C3): 1%,WBC: 9.12,Albumin: 4.0 g/dL,Lymphocyte: 3.14,Neutrophil: 4.78,LDH level: Unknown U/L,Treatment type: Immunotherapy + Chemotherapy,Treatment regimen: Pembrolizumab/Pemetrexed/Carboplatin,SNV mutations: FANCL,SMARCA4,TP53,CNV alterations: CDKN2A(loss),CDKN2B(loss),ERCC2(gain),FGF8(gain),FGFR4(gain),RET(gain),STK11(loss),Fusion genes: None,Splice variants: None,TMB: 7.1 mutations/Mb\nWhat is the most likely treatment response?",
+    "options": {
+      "A": "Complete Response",
+      "B": "Partial Response",
+      "C": "Stable Disease",
+      "D": "Progressive Disease"
+    },
+    "answer_idx": "D",
+    "answer": "PD"
+  }
+]
